@@ -29,9 +29,9 @@ Sebelum memulai, pastikan Anda telah menginstal perangkat berikut:
     flutter run
     ```
 
-## Cara Penggunaan
-1. Setelah proyek diinstal dan dijalankan, ikuti instruksi yang telah disediakan dalam file `INSTRUKSI.md` atau dokumen terpisah yang akan memberi tahu Anda tugas-tugas yang harus diselesaikan.
-2. Lengkapi tugas sesuai dengan spesifikasi yang diminta.
+## Tugas
+1. Membuat halaman movie list seperti di video https://drive.google.com/file/d/1jNmeoZaiaRRz-oYhta_By1B7A37OwCFl/view?usp=drive_link
+2. Membuat halaman movie detail seperti di video https://drive.google.com/file/d/1PzwE0OkpH4jk9tTCoVAcVaSPKEKUGM-Y/view?usp=drive_link
 
 ## Panduan Kontribusi
 Jika Anda adalah pengembang yang ingin berkontribusi, harap ikuti langkah-langkah berikut:
