@@ -36,8 +36,8 @@ Sebelum memulai, pastikan Anda telah menginstal perangkat berikut:
 ## Panduan Kontribusi
 Jika Anda adalah pengembang yang ingin berkontribusi, harap ikuti langkah-langkah berikut:
 1. Fork repositori ini.
-2. Buat branch fitur baru (`git checkout -b fitur-anda`).
-3. Lakukan perubahan yang diperlukan dan commit (`git commit -m 'Menambahkan fitur baru'`).
+2. Buat branch fitur baru (`git checkout -b [nama]/fitur-anda`).
+3. Lakukan perubahan yang diperlukan dan commit (`git commit -m '[nama]: Menambahkan fitur baru'`).
 4. Push ke branch di fork Anda (`git push origin fitur-anda`).
 5. Buat pull request ke repositori ini.
 
